@@ -1,0 +1,8 @@
+[package]
+name = "fm_scan"
+version="0.1.0"
+authors = ["Bjoern Doebel <bjoern.doebel@gmail.com"]
+
+[dependencies]
+process-memory="0.4.0"
+sysinfo = "0.15.3"
